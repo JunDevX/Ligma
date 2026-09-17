@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Node.js-18%2B-0d99ff?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/Express.js-4.x-1e1e1e?style=for-the-badge&logo=express&logoColor=white" alt="Express">
     <img src="https://img.shields.io/badge/Fabric.js-5.3-2c2c2c?style=for-the-badge&logo=javascript&logoColor=white" alt="Fabric.js">
-    <img src="https://img.shields.io/badge/License-MIT-0d99ff?style=for-the-badge" alt="License">
+    <img src="https://img.shields.io/badge/License-GPL-0d99ff?style=for-the-badge" alt="License">
   </p>
 
   <br>
